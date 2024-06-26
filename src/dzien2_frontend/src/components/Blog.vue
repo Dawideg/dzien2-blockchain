@@ -8,7 +8,6 @@
     </div>
 </template>
 <script>
-import { ref } from 'vue';
 import { dzien2_backend } from 'declarations/dzien2_backend/index';
 
     export default {
